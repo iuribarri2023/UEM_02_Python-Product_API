@@ -1,0 +1,44 @@
+[
+  {
+    "id": "37cf2c9c-191f-4142-bcbc-25c21f06e29e",
+    "name": "asd",
+    "description": "asda",
+    "price": 0.0,
+    "stock": 1
+  },
+  {
+    "id": "prd-001",
+    "name": "Cemento Portland 50kg",
+    "description": "Saco de cemento para obras generales",
+    "price": 8.5,
+    "stock": 120
+  },
+  {
+    "id": "prd-002",
+    "name": "Arena Fina m3",
+    "description": "Arena lavada para mezcla de mortero",
+    "price": 22.0,
+    "stock": 45
+  },
+  {
+    "id": "prd-003",
+    "name": "Ladrillo Hueco 12x24",
+    "description": "Palet de 100 unidades",
+    "price": 65.0,
+    "stock": 30
+  },
+  {
+    "id": "prd-004",
+    "name": "Viga IPN 120",
+    "description": "Viga de acero laminado 6m",
+    "price": 180.75,
+    "stock": 10
+  },
+  {
+    "id": "prd-005",
+    "name": "Yeso Construccion 25kg",
+    "description": "Yeso rapido para tabiqueria",
+    "price": 6.2,
+    "stock": 80
+  }
+]

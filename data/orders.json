@@ -1,0 +1,64 @@
+﻿[
+  {
+    "id": "ord-001",
+    "customer_name": "Obras Norte SA",
+    "items": [
+      {
+        "product_id": "prd-001",
+        "quantity": 10,
+        "product": {
+          "id": "prd-001",
+          "name": "Cemento Portland 50kg",
+          "description": "Saco de cemento para obras generales",
+          "price": 8.5,
+          "stock": 120
+        },
+        "line_total": 85.0
+      },
+      {
+        "product_id": "prd-003",
+        "quantity": 2,
+        "product": {
+          "id": "prd-003",
+          "name": "Ladrillo Hueco 12x24",
+          "description": "Palet de 100 unidades",
+          "price": 65.0,
+          "stock": 30
+        },
+        "line_total": 130.0
+      }
+    ],
+    "total": 215.0
+  },
+  {
+    "id": "ord-002",
+    "customer_name": "Construcciones Rivera",
+    "items": [
+      {
+        "product_id": "prd-002",
+        "quantity": 1,
+        "product": {
+          "id": "prd-002",
+          "name": "Arena Fina m3",
+          "description": "Arena lavada para mezcla de mortero",
+          "price": 22.0,
+          "stock": 45
+        },
+        "line_total": 22.0
+      },
+      {
+        "product_id": "prd-005",
+        "quantity": 5,
+        "product": {
+          "id": "prd-005",
+          "name": "Yeso Construccion 25kg",
+          "description": "Yeso rapido para tabiqueria",
+          "price": 6.2,
+          "stock": 80
+        },
+        "line_total": 31.0
+      }
+    ],
+    "total": 53.0
+  }
+]
